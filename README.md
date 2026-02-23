@@ -1,2 +1,6 @@
 # S2F-X200
 S2F-X200 lift + cruise eVTOL vehicle data, including mass properties and linear model data
+
+Mass properties coming soon...
+
+A more detailed guide on the data and how to interpret it will be uploaded soon...
